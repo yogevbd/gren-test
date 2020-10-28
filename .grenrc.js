@@ -15,6 +15,7 @@ module.exports = {
     'Bug fixes:': ['bug'],
     Features: ['feature'],
   },
+  tags: 'all',
   dataSource: 'prs',
   changelogFilename: 'CHANGELOG.gren.md',
   override: true,
